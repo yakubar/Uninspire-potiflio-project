@@ -7,7 +7,7 @@ This repository contains the source code for the **Albarokah Collection** websit
 - Built with HTML and CSS for easy editing and customization.
 - Designed with a gold, faded red, black, and white color scheme to reflect the brand identity.
 - Includes sections for About Us, Owner info, Product Gallery, and Contact form.
-- The contact form uses [FormSubmit](https://formsubmit.co) for email handling (replace with your email).
+- The contact form uses [FormSubmit](https://formsubmit.co) for email handling (albarokahwears01@gmail.com).
 - Responsive design for mobile and desktop users.
 
 ## How to Use
